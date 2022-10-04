@@ -7,7 +7,7 @@ import api from './services/api';
 function App() {
 
   const [input, setInput] = useState('')
-  const [cep, setCep] = useState({});
+  const [cep, setCep] = useState({}); 
 
 
   async function handleSearch() {
