@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Find Adress</h1>
+      <h1 className="title">Find Address</h1>
 
       <div className="containerInput">
         <input
